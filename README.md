@@ -2,6 +2,8 @@
 
 This project identifies plant diseases from leaf images using a trained Keras model and a Streamlit web app.
 
+WEBSITE - https://plantdiseasedetection-db.streamlit.app/
+
 ## Contents
 - `training_model.ipynb` — Model training notebook  
 - `test_plant_disease.ipynb` — Model testing and evaluation notebook  
